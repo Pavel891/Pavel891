@@ -10,6 +10,9 @@
    <a href="https://t.me/pavelg03">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="linkedin.com/in/420b55174">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
 <p align='center'>
