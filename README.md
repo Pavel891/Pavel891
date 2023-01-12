@@ -1,9 +1,9 @@
 # Привет, меня зовут Павел 👋
 Я начинающий Дата-аналитик, закончил курсы в Яндекс.Практикум 08.2022. До этого момента вся моя работа была тесно связана с аналитикой, в основном финансовой и налоговой. Я увлечен процессом автоматизации и оптимизации работы аналитика, расширением границ экспертизы и объединением разных сторон этих знаний в один качественный продукт.
 
-<p align = 'center'>
+<!-- <p align = 'center'>
  <a href="https://github-readme-stats.vercel.app/api?username=Pavel891&show_icons=true&count_private=true"><img height=150 src="https://github-readme-stats.vercel.app/api?username=Pavel891&show_icons=true&count_private=true&theme=dark"/></a>
-<a href="https://github.com/Pavel891/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel891&layout=compact&theme=dark"/></a>
+ <a href="https://github.com/Pavel891/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel891&layout=compact&theme=dark"/></a>
 </p>
 
 <p align='center'>
@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/420b55174/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 <p align='center'>
   Email: <a href='mailto:PavelG03@yandex.ru'>PavelG03@yandex.ru</a>
