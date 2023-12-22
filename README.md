@@ -19,7 +19,7 @@
 <p align='center'>
   Email: <a href='mailto:PavelG03@yandex.ru'>PavelG03@yandex.ru</a>
   <br><a href="https://www.linkedin.com/in/420b55174/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge" alt="LinkedIn Badge"></a>
-  <br><a href="t.me/pavelg03"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge"></a>
+  <br><a href="https://t.me/pavelg03"><img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=for-the-badge" alt="Telegram Badge"></a>
 </p>
 
 <h3>Стек технологий:<h3>
